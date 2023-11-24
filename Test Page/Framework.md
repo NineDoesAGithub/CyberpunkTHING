@@ -4,7 +4,7 @@
 
 ![picture of awards transparent floating](https://i.imgur.com/mxW1thQ.png)
 
-#### For the first time on Nexus Mods, two fully featured collections in one: the future of modding is here. You shouldn't need a degree from Arasaka Academy just to be able to enjoy Cyberpunk 2077 with mods. We provide a fully preconfigured and easy to use modded experience comprising the best community mods and our own; it just works, plug n' play.
+#### > For the first time on the Nexus, a two-for-one Collection housing mods made by the team and an installation process so simple any skitched gonk could do it.
 
 ![trailer](https://i.imgur.com/MV0Lbpu.png)
 
